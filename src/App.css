@@ -492,6 +492,7 @@ padding: 36px;
 
   .about-buttons-container {
     margin-left: 0rem !important;
+ 
     margin-top: 1rem;
     font-size: 1rem !important;
     display: flex;
@@ -510,16 +511,7 @@ padding: 36px;
     display: none;
   }
 
-  .watch-video-button {
-    margin-left: 0rem !important;
-    margin-top: 2rem;
-    font-size: 1rem !important;
-    font-size: 1.2rem !important;
-  }
 
-  .watch-video-button svg {
-    font-size: 1.5rem;
-  }
 
   .work-section-wrapper{
     margin-top: 3rem !important;

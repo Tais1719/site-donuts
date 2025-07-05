@@ -26,9 +26,7 @@ const About = () => {
         </p>
         <div className="about-buttons-container">
           <button className="secondary-button">Leia mais</button>
-          <button className="watch-video-button">
-          
-          </button>
+         
         </div>
       </div>
     </section>
