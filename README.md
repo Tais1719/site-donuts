@@ -27,11 +27,6 @@ Landing page moderna e responsiva desenvolvida com **ReactJS**, com foco em comp
 - 💻 [Projeto Online](https://lnkd.in/gGPwiwmG)  
 - 📂 [Repositório GitHub](https://lnkd.in/g2HwFtQi)
 
-## 📌 Próximos Passos
-
-- Melhorar acessibilidade
-- Adicionar animações
-- Refatorar com Styled Components
 
 ## 🤝 Conecte-se
 
